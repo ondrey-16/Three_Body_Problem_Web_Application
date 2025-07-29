@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeBodyProblem", "ThreeBodyProblem\ThreeBodyProblem.csproj", "{1F406150-A089-44D8-BC79-120E5F6CCA9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoBodyPhysicsLaws", "TwoBodyPhysicsLaws\TwoBodyPhysicsLaws.csproj", "{B87FED48-7D62-45FD-AE4B-9C9408B4A9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F406150-A089-44D8-BC79-120E5F6CCA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F406150-A089-44D8-BC79-120E5F6CCA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F406150-A089-44D8-BC79-120E5F6CCA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F406150-A089-44D8-BC79-120E5F6CCA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87FED48-7D62-45FD-AE4B-9C9408B4A9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87FED48-7D62-45FD-AE4B-9C9408B4A9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87FED48-7D62-45FD-AE4B-9C9408B4A9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87FED48-7D62-45FD-AE4B-9C9408B4A9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F168678-8D84-4357-AE0D-AF07A69C473C}
+	EndGlobalSection
+EndGlobal
